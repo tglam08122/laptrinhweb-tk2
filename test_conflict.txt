@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Day la file test_conflict.txt thuoc branch main
+=======
+Day la file test_conflict.txt thuoc branch test_conflict
+>>>>>>> test_conflict
